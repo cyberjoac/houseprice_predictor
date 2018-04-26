@@ -1,0 +1,23 @@
+{
+	"type": "a",
+	"offset": 100.0,
+	"parameters": [{
+			"feature_name": "area",
+			"mean": 5.5,
+			"variance": 0.1,
+			"parameter": 15125
+		},
+		{
+			"feature_name": "rooms",
+			"mean": 5.5,
+			"variance": 0.5,
+			"parameter": 1450
+		},
+		{
+			"feature_name": "years_since_build",
+			"mean": 5.5,
+			"variance": 0.9,
+			"parameter": -9962
+		}
+	]
+}
